@@ -25,7 +25,7 @@ void bubble_sort(int *array, size_t size)
 
 /**
  * swap - swap two pointers to integer
- *
+ *                                 
  * @a: first int pointer
  * @b: second int pointer
  */
